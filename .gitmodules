@@ -1,0 +1,3 @@
+[submodule "Third-Repo"]
+	path = Third-Repo
+	url = https://github.com/PrameelaBellam/Third-Repo.git
